@@ -3,7 +3,7 @@
 
         .carousel-inner > item. > img, 
         .carousel-inner > item. >  a > img, {
-            width: 100%;
+          
             margin: auto;
         }
 
@@ -130,12 +130,7 @@
  margin-top: 154px;
 }
 
-.about2 {
-    background-image: url(Images/photo1.png);
-    height: 343px;
-    width: 556px;
-    
-}
+
 
  .about h2 {
   text-align: left;
@@ -193,12 +188,7 @@
     margin-top: 117px;
 }
 
-.about3 {
-    background-image: url(Images/photo4.png);
-    height: 400px;
-    width: 557px;
-    margin-left: 28px;
-}
+
 
 .about4 {
     padding: 50px;
@@ -278,12 +268,7 @@
     
 }
 
-.about6 {
-      background-image: url(Images/photo2.png);
-    height: 343px;
-    width: 556px;
-    margin-right: 20px;
-}
+
 
 /*FOOTER */
 
